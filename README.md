@@ -140,3 +140,18 @@ Data Boot Camp (C) 2019. All Rights Reserved.
 
 ## Final Analysis Report 
 ### Check my work at this link - https://public.tableau.com/profile/ekta7638#!/vizhome/CitiBikeAnalysis_twbx/NYC2019-CitiBikeDataAnalysis
+
+
+#### The data includes:
+
+* Trip Duration (seconds)
+* Start Time and Date
+* Stop Time and Date
+* Start Station Name
+* End Station Name
+* Station ID
+* Station Lat/Long
+* Bike ID
+* User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+* Gender (Zero=unknown; 1=male; 2=female)
+* Year of Birth
